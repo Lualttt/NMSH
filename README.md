@@ -1,5 +1,4 @@
-change this line in `crabgame_mod_template.csproj` to your bepinex directory path
+# No More Screen Shake
 
-```xml
-<BepInExDirectory>C:\Program Files\Steam\steamapps\common\Crab Game\BepInEx</BepInExDirectory>
-```
+simple quality of life mod to have "No More Screen Shake".
+
